@@ -1,18 +1,3 @@
-# Prolog-based Student Course Advisor
-
-An expert system built using **Prolog** that recommends suitable courses to students based on their performance, interests, and career goals.  
-
----
-
-## 🚀 Features
-- Stores student details (name, percentage, interests, goals).  
-- Generates personalized course recommendations.  
-- Provides tabular reports and student insights.  
-- Demonstrates **logic programming** and **AI-based decision-making**.  
-
----
-
-## 🖥️ Code Example  
 % ------------------ Knowledge Base ------------------
 
 % Students
